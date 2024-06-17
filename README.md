@@ -16,7 +16,7 @@ WINDOWS 11
 Visit the official Microsoft Windows 11 download page: Microsoft's official website.
 Click on "Download Now" or similar button to begin the download.
 Save the downloaded file to a location on your computer.
-![download process for windows 11](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 091707.png)
+![Windows installation screenshot]](<Screenshot 2024-06-17 091707.png>)
 3. Creating Installation Media
 After downloading the Windows 11 installation file, you can create installation media using either a USB flash drive (at least 8GB in size) or a DVD.
 Insert a USB flash drive or DVD into your computer.
@@ -53,7 +53,7 @@ Follow any additional setup prompts as needed.
 Download the installer appropriate for your operating system (Windows, macOS, Linux).
 For my case it is windows:
    Download Visual Studio Code: 
-![download process for VSCODE](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 093512.png)
+![Download process for VSCODE](<Screenshot 2024-06-17 093420.png>)
 Install Visual Studio Code:
 
 Windows:
@@ -62,7 +62,7 @@ Double-click the downloaded .exe file to start the installation.
 Follow the on-screen instructions in the installer. You can choose the default settings unless you have specific preferences.
 After installation, VSCode should be accessible from the Start menu.
 Here is how mine currently looks like:
-![My VSCODE](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 094410.png)
+![MY VSCODE](<Screenshot 2024-06-17 094410.png>)
 Open Visual Studio Code:
 
 Once installed, open Visual Studio Code from your applications menu (Windows/macOS) or by typing code in the terminal (Linux).
@@ -91,12 +91,12 @@ Download the Git installer for Windows from Git official website.
 Run the downloaded .exe file.
 Follow the installation steps in the installer (accepting the default settings is usually fine).
 here is my screenshot:
-![How to download git](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 095637.png)
+![How to download git](<Screenshot 2024-06-17 095637.png>)
 
 2. Configure Git
 After installing Git, configure it with your name and email address. Open a terminal or Git Bash (on Windows) and run the following commands:
 here is how to do it
-![How to configure git](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 100252.png)
+![How to configure git](<Screenshot 2024-06-17 100252.png>)
  These details will be used to identify your commits.
 3. Create a GitHub Account
  This account will be used to host your Git repositories remotely.
@@ -131,7 +131,7 @@ Create a new repository on GitHub:
 Log in to your GitHub account.
 Click on the "+" sign in the top right corner and select "New repository".
 here is my screenshot:
-![Git hub screenshot](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 100826.png)
+![My current Git Hub](<Screenshot 2024-06-17 100826.png>)
 
 
 Give your repository a name, optionally add a description, and choose other settings as desired.
@@ -165,7 +165,7 @@ Download Python Installer:
 Once downloaded, run the Python installer (e.g., python-3.10.3-amd64.exe).
 Click on the download link for your operating system (Windows, macOS, Linux). The website usually detects your operating system automatically and suggests the appropriate installer.
 here is the screenshot:
-![Python download screenshot](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 101422.png)
+![Python installer](<Screenshot 2024-06-17 101422.png>)
 
 
 2. Install Python
@@ -189,8 +189,7 @@ python --version
 3. Verify Python Installation
 Open a terminal or command prompt and type:
 
-![Python version](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 102201.png)
-
+![how to check python version](image.png)
 This command should display the installed Python version (e.g., Python 3.10.3). as shown
 4. Install Additional Tools (Optional)
 Depending on your project requirements, you may need additional tools such as:
@@ -231,7 +230,7 @@ Visit MySQL Website:
 
 Go to MySQL Community Downloads.
 Choose MySQL Installer: here is my screenshot
-![MySQL download](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 103549.png)
+![MySQL version](<Screenshot 2024-06-17 103549.png>)
 you choose the best version and download it
 
 
@@ -267,7 +266,7 @@ Open MySQL Workbench or a command prompt and connect to the MySQL Server using t
 MySQL Workbench: Launch MySQL Workbench from the Start menu. Enter the root username and password you set during installation to connect to the MySQL Server.
 Command Line: Open a command prompt and type: mysql -u root -p
 Here is how mine looks like
-![MySQL on command prompt](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 104344.png)
+![MySQL on command prompt](<Screenshot 2024-06-17 104344.png>)
 Additional Configuration (Optional)
 Create Databases and Users:
 
@@ -291,7 +290,7 @@ Click on the Extensions view icon in the Sidebar (or press Ctrl+Shift+X or Cmd+S
 Explore and Install Extensions
 Search for Extensions:
 Here is my screenshot on VSCode
-![My extensions on VSCODE](C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-06-17 105244.png)
+![My extensions on VSCODE](<Screenshot 2024-06-17 105244.png>)
 
 In the Extensions view, you can search for specific extensions using keywords related to your needs (e.g., "Python", "Git", "Markdown").
 Filter and Sort:
